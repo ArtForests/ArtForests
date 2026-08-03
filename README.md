@@ -14,10 +14,6 @@
 
 面向学术论文信息过载与个性化检索需求，持续迭代论文检索、兴趣分析与智能推荐流程；前期作为团队成员参与初版建设，后期担任项目组长。
 
-### [Jetson Nano Test Record Management System](https://github.com/ArtForests/jetson-test-record-system)
-
-基于 Flask 和 SQLite 构建，支持设备管理、测试记录管理、批量上传 API、PDF 导出以及 Docker 与 Jetson Nano 部署。
-
 ### PointNet++ Reproduction
 
 基于 PyTorch 在 ModelNet40 数据集上完成训练、测试与结果验证。在 1024 点、使用法向量和 3 次投票条件下，取得 **92.73% Instance Accuracy** 和 **89.64% Class Accuracy**。
