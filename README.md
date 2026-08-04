@@ -10,17 +10,13 @@
 
 面向麒麟系统的安全智能运维 Agent。独立完成需求分析、系统架构、Web UI、REST API、MCP JSON-RPC、Policy Kernel 与审计链路的设计和实现。
 
-### AFRS Academic Frontier Recommendation System
+### [PetVision AI](https://github.com/ArtForests/petvision-ai)
 
-面向学术论文信息过载与个性化检索需求，持续迭代论文检索、兴趣分析与智能推荐流程；前期作为团队成员参与初版建设，后期担任项目组长。
-
-### PointNet++ Reproduction
-
-基于 PyTorch 在 ModelNet40 数据集上完成训练、测试与结果验证。在 1024 点、使用法向量和 3 次投票条件下，取得 **92.73% Instance Accuracy** 和 **89.64% Class Accuracy**。
+基于 Oxford-IIIT Pet 数据集构建多任务宠物视觉分析系统，完成 37 类宠物品种分类、宠物主体分割与 Grad-CAM 可解释性分析。比较 ResNet50 与 MobileNetV3-Large，并通过 Streamlit 提供交互式演示；ResNet50 测试准确率为 **94.95%**，U-Net Dice 为 **60.89%**。
 
 ## Tech Stack
 
-`Python` · `Flask` · `SQLite` · `PyTorch` · `Docker` · `Linux` · `HTML/CSS/JavaScript` · `Git`
+`Python` · `Flask` · `SQLite` · `PyTorch` · `Streamlit` · `Docker` · `Linux` · `HTML/CSS/JavaScript` · `Git`
 
 ---
 
