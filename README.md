@@ -6,7 +6,7 @@
 
 ## Selected Projects
 
-### Kylin Sentinel Agent
+### [Kylin Sentinel Agent](https://github.com/ArtForests/kylin-sentinel-agent)
 
 面向麒麟系统的安全智能运维 Agent。独立完成需求分析、系统架构、Web UI、REST API、MCP JSON-RPC、Policy Kernel 与审计链路的设计和实现。
 
